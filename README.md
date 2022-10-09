@@ -9,7 +9,8 @@ Presentation video:https://youtu.be/w5tM9u7hI0Y
 
 ## Sketches
 
-![Screenshot 2022-10-09 113549](https://user-images.githubusercontent.com/65583643/194740987-7d41299a-e4fb-4581-b1bd-f35a7b6e3e94.png=200x)
-![Sketching](https://user-images.githubusercontent.com/65583643/194740992-5eec01df-1b9a-473d-9417-e0f61d042fbf.png=200x)
+![Screenshot 2022-10-09 113549](https://user-images.githubusercontent.com/65583643/194741294-b2029289-27b3-4d82-af16-573b087a795a.png)
+![Sketching](https://user-images.githubusercontent.com/65583643/194741297-ad5ac5cb-241a-419e-a65f-d6746b998dad.png)
+
 
  
